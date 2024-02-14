@@ -1,0 +1,101 @@
+nome_curso,nome_aluno,modalidade,data_inicio,data_fim,data_emissao,carga_horaria,aproveitamento,data_nascimento
+Empreendedorismo Digital e Inovação,Lucas Silva,Semipresencial,2023-01-05,2023-02-16,,80.0,,2003-02-08
+Psicologia do Trabalho e Bem-Estar,Amanda Costa,Online,2023-02-17,2023-02-22,,40.0,,1990-04-15
+Design Thinking para Soluções Criativas,Felipe Pereira,Presencial,2023-03-21,2023-02-28,2023-02-28,40.0,89.0,1987-09-23
+Programação em Python para Iniciantes,Isabela Santos,Presencial,2023-04-04,2023-03-06,,,,1985-11-06
+Estratégias de Marketing Digital Multicanal,João Oliveira,Semipresencial,2023-05-12,2023-03-12,,80.0,77.0,1999-08-12
+Gestão de Projetos Ágeis com Scrum,Juliana Lima,Presencial,2023-06-23,2023-03-18,,100.0,99.0,1980-07-29
+Fotografia Digital para Amadores,Matheus Rocha,Semipresencial,2023-07-08,2023-03-24,2023-03-24,,,1994-03-18
+Administração Financeira Pessoal e Investimentos,Carolina Almeida,Online,2023-08-19,2023-03-30,,100.0,78.0,1988-06-03
+Introdução à Ciência de Dados,Gabriel Souza,Semipresencial,2023-09-02,2023-04-05,,40.0,,1982-01-21
+Comunicação Eficaz no Ambiente Corporativo,Larissa Rodrigues,Online,2023-10-14,2023-04-11,,80.0,,1985-09-14
+Desenvolvimento de Aplicações Móveis com React Native,Pedro Lima,Semipresencial,2023-11-26,2023-04-17,,,,2002-05-02
+Escrita Profissional e Redação Corporativa,Camila Martins,Presencial,2023-12-08,2023-04-23,,,91.0,1995-12-27
+Análise de Riscos em Segurança da Informação,Thiago Castro,Online,2023-01-20,2023-04-29,,,,1987-07-08
+Design de Produto: Da Ideia ao Protótipo,Mariana Costa,Presencial,2023-02-02,2023-05-05,2023-05-05,40.0,,2001-10-19
+Marketing de Conteúdo e SEO,Vinícius Santos,Semipresencial,2023-03-16,2023-05-11,,,80.0,1978-04-10
+Introdução à Robótica Educacional,Fernanda Oliveira,Presencial,2023-04-28,2023-05-17,,80.0,,1984-11-25
+Gestão de Equipes de Alta Performance,Lucas Pereira,Online,2023-05-10,2023-05-23,,,86.0,1986-09-07
+Web Design Responsivo com HTML e CSS,Bruna Silva,Online,2023-06-22,2023-05-29,,40.0,,2000-06-13
+Empreendedorismo Social e Impacto Positivo,Rafael Rocha,Presencial,2023-08-04,2023-06-04,,,,1983-02-04
+Java Avançado: Desenvolvimento de Aplicações Empresariais,Gabriela Almeida,Semipresencial,2023-09-16,2023-06-10,,,96.0,1993-08-22
+Psicologia Positiva e Desenvolvimento Pessoal,Leonardo Souza,Presencial,2023-10-28,2023-06-16,,80.0,,1998-12-16
+UX/UI Design: Criando Experiências Memoráveis,Larissa Lima,Semipresencial,2023-11-09,2023-06-22,,100.0,93.0,1981-03-30
+Data Science Aplicada a Negócios,Gustavo Martins,Online,2023-12-21,2023-06-28,,,,1989-05-11
+Estratégias de Vendas Online e E-commerce,Aline Rodrigues,Semipresencial,2023-01-02,2023-07-03,,100.0,,1975-01-05
+Inovação em Negócios Sustentáveis,Guilherme Costa,Online,2023-02-14,2023-07-09,2023-07-09,40.0,,1996-07-17
+Redes Sociais e Estratégias de Engajamento,Luana Oliveira,Presencial,2023-03-27,2023-07-15,,80.0,82.0,1977-09-28
+Desenvolvimento de Jogos com Unity,Igor Silva,Semipresencial,2023-04-08,2023-07-21,,,73.0,1984-11-09
+Gestão de Mudanças Organizacionais,Beatriz Santos,Presencial,2023-05-20,2023-07-27,,40.0,,1997-06-24
+Cloud Computing: Fundamentos e Implementação,Daniel Castro,Online,2023-07-01,2023-08-02,,,81.0,1979-02-19
+Fotografia de Alimentos e Estilização,Amanda Lima,Semipresencial,2023-08-13,2023-08-08,,,92.0,1992-10-01
+Finanças Corporativas e Avaliação de Investimentos,Rafael Pereira,Presencial,2023-09-24,2023-08-14,,,85.0,1991-04-13
+Python para Análise de Dados e Machine Learning,Isadora Costa,Semipresencial,2023-10-06,2023-08-20,,80.0,76.0,1976-07-26
+Negociação Estratégica e Tomada de Decisão,Mateus Souza,Online,2023-11-18,2023-08-26,,100.0,88.0,1993-03-07
+UI/UX Design para Aplicações Mobile,Júlia Rocha,Online,2023-12-30,2023-09-01,,100.0,,1973-05-20
+Empreendedorismo na Era Digital,Lucas Almeida,Semipresencial,2023-01-11,2023-09-07,,,,1990-08-02
+Segurança Cibernética para Usuários,Bianca Oliveira,Online,2023-02-23,2023-09-13,2023-09-13,40.0,98.0,1995-11-15
+Marketing de Influência e Parcerias Estratégicas,Thiago Lima,Presencial,2023-03-07,2023-09-19,,,74.0,1972-01-08
+Desenvolvimento de Aplicações Web com Django,Marcela Martins,Semipresencial,2023-04-19,2023-09-25,,,95.0,1989-04-21
+Liderança Transformadora e Coaching,Diego Rodrigues,Online,2023-06-01,2023-10-01,,,89.0,1971-09-03
+Análise de Dados com Power BI,Nathalia Silva,Presencial,2023-07-13,2023-10-07,,,,1982-12-14
+Criação de Conteúdo Audiovisual para a Web,André Santos,Semipresencial,2023-08-25,2023-10-13,,100.0,97.0,1974-01-29
+Estratégias de Branding e Posicionamento de Marca,Luiza Pereira,Presencial,2023-09-06,2023-10-19,,80.0,,2001-06-11
+Introdução à Inteligência Artificial,Ricardo Costa,Online,2023-10-18,2023-10-25,,,86.0,1970-10-24
+Gerenciamento de Projetos de TI,Débora Rocha,Online,2023-11-29,2023-10-30,,40.0,83.0,1998-02-06
+Fotografia Urbana e Street Art,Eduardo Almeida,Presencial,2023-12-11,2023-11-05,,,90.0,1988-08-17
+Finanças Pessoais e Planejamento Orçamentário,Laura Oliveira,Semipresencial,2023-01-23,2023-11-11,,40.0,,1977-05-01
+Programação em C# para Desenvolvimento de Jogos,Bruno Souza,Semipresencial,2023-03-04,2023-11-17,,100.0,94.0,1983-09-13
+Estratégias de Marketing Internacional,Giovanna Lima,Online,2023-04-16,2023-11-23,,,78.0,1994-12-27
+Arduino e Prototipagem Rápida de Dispositivos,Fernando Martins,Presencial,2023-05-28,2023-11-29,,80.0,99.0,1976-03-08
+Comunicação Empresarial e Media Training,Letícia Rodrigues,Presencial,2023-07-09,2023-12-05,,40.0,77.0,1999-07-19
+Desenvolvimento de Aplicações Android com Kotlin,Caio Silva,Online,2023-08-21,2023-12-11,,,91.0,1981-11-30
+Analytics e Métricas para Negócios Digitais,Renata Santos,Semipresencial,2023-10-02,2023-12-17,,100.0,,1974-04-10
+Empreendedorismo Cultural e Economia Criativa,Anderson Costa,Online,2023-11-14,2023-12-23,,40.0,82.0,1992-06-23
+Redação Publicitária e Copywriting,Bruna Rocha,Semipresencial,2023-12-26,2023-12-29,,,75.0,1975-10-05
+Deep Learning e Redes Neurais Artificiais,Victor Lima,Online,2023-01-07,2024-01-04,,40.0,93.0,1986-02-16
+Design de Interiores e Sustentabilidade,Raquel Almeida,Presencial,2023-02-18,2024-01-10,,100.0,96.0,1991-07-01
+Finanças para Pequenos Empreendedores,Igor Oliveira,Semipresencial,2023-04-02,2024-01-16,,,87.0,1979-11-14
+UX Writing e Microcopy: A Importância da Palavra,Gabrielle Pereira,Semipresencial,2023-05-14,2024-01-22,,80.0,73.0,1980-03-26
+Segurança da Informação em Dispositivos Móveis,Lucas Costa,Presencial,2023-06-25,2024-01-28,2024-01-28,40.0,70.0,1997-08-07
+Estratégias de Marketing de Conteúdo Visual,Camila Souza,Online,2023-08-07,2024-02-02,,,85.0,1973-12-18
+Desenvolvimento de Aplicações iOS com Swift,Matheus Rocha,Semipresencial,2023-09-19,2024-02-08,,100.0,92.0,1990-05-29
+Estratégias de Vendas B2B e Relacionamento com Clientes,Vanessa Lima,Online,2023-11-01,2024-02-14,,,,1984-09-10
+Prototipagem de Produtos Eletrônicos,Gustavo Santos,Presencial,2023-12-13,2024-02-20,,40.0,96.0,1982-01-22
+Gestão de Conflitos e Negociação Interpessoal,Isabella Almeida,Presencial,2023-01-25,2024-02-26,,80.0,77.0,1996-06-03
+Design de Logotipos e Identidade Visual,Thiago Silva,Semipresencial,2023-03-06,2024-03-03,,,91.0,1971-10-15
+Big Data e Análise Preditiva,Ana Rodrigues,Presencial,2023-04-18,2024-03-09,,100.0,80.0,1993-04-26
+Empreendedorismo Feminino na Tecnologia,Rafael Costa,Online,2023-05-30,2024-03-15,,,93.0,1980-08-08
+WordPress: Criação e Gestão de Sites,Marina Rocha,Semipresencial,2023-07-11,2024-03-21,,40.0,88.0,1978-12-20
+Cibersegurança em Redes Sociais,André Lima,Semipresencial,2023-08-23,2024-03-27,,100.0,,1999-03-02
+Marketing de Experiência e Customer Journey,Karla Martins,Online,2023-10-04,2024-04-02,,80.0,71.0,1989-07-13
+Desenvolvimento de Aplicações para Dispositivos Wearables,Pedro Souza,Presencial,2023-11-16,2024-04-08,,,98.0,1975-11-27
+Estratégias de Publicidade Nativa,Aline Oliveira,Online,2023-12-28,2024-04-14,,40.0,75.0,1992-02-08
+Introdução à Realidade Virtual,Guilherme Lima,Presencial,2023-01-09,2024-04-20,,,82.0,1981-06-21
+Gerenciamento de Redes de Computadores,Juliana Pereira,Online,2023-02-20,2024-04-26,,40.0,84.0,1974-10-02
+Fotografia de Viagem e Documentário,Vinícius Costa,Semipresencial,2023-04-04,2024-05-02,,100.0,,1987-01-14
+Finanças Comportamentais e Psicologia Econômica,Carolina Almeida,Semipresencial,2023-05-16,2024-05-08,,,89.0,1972-05-26
+Programação em JavaScript para Web,Leandro Rodrigues,Online,2023-06-27,2024-05-14,,100.0,76.0,1995-09-06
+Design Thinking para Soluções em Saúde,Larissa Silva,Presencial,2023-08-09,2024-05-20,,,97.0,1983-03-17
+Machine Learning na Prática,Eduardo Santos,Online,2023-09-21,2024-05-26,,80.0,94.0,1970-07-30
+Estratégias de Marketing de Influência Digital,Amanda Rocha,Semipresencial,2023-11-03,2024-06-01,,100.0,78.0,1998-11-11
+Empreendedorismo Verde e Sustentável,Bruno Lima,Online,2023-12-15,2024-06-07,,,100.0,1977-02-24
+Segurança da Informação em Dispositivos IoT,Fernanda Martins,Presencial,2023-01-26,2024-06-13,,80.0,73.0,1985-06-06
+Estratégias de Email Marketing e Automação,Gustavo Oliveira,Semipresencial,2023-03-07,2024-06-19,,100.0,99.0,1979-10-18
+Desenvolvimento de Aplicações Cross-Platform,Isabela Almeida,Presencial,2023-04-19,2024-06-25,,,,1991-01-30
+UX/UI Design para E-commerce,Matheus Silva,Presencial,2023-06-01,2024-07-01,,100.0,72.0,1976-05-10
+Análise de Dados em Tempo Real,Beatriz Lima,Semipresencial,2023-07-13,2024-07-07,,80.0,95.0,1987-09-22
+Gamificação em Educação e Treinamento,Gabriel Costa,Online,2023-08-24,2024-07-13,,,83.0,1974-02-03
+Empreendedorismo Corporativo e Inovação Aberta,Luiza Rocha,Online,2023-10-05,2024-07-19,,,92.0,1993-07-15
+Programação em Ruby on Rails,Rafael Souza,Presencial,2023-11-17,2024-07-25,,,81.0,1971-11-27
+Estratégias de Marketing para Startups,Letícia Oliveira,Semipresencial,2023-12-29,2024-07-30,2024-07-30,,86.0,1989-04-08
+Internet das Coisas (IoT): Conceitos e Aplicações,Felipe Lima,Semipresencial,2023-01-10,2024-08-05,2024-08-05,,100.0,1982-08-20
+Gerenciamento de Projetos de Inovação,Giovanna Martins,Presencial,2023-02-21,2024-08-11,2024-08-11,,87.0,1997-12-01
+Fotografia de Moda e Estilo,Rodrigo Santos,Online,2023-04-05,2024-08-17,,,79.0,1973-04-13
+Estratégias de Vendas Omnichannel,Gabriela Almeida,Semipresencial,2023-05-17,2024-08-23,,,76.0,1990-09-26
+Desenvolvimento de Chatbots Inteligentes,Daniel Rocha,Online,2023-06-28,2024-08-29,,,74.0,1978-01-07
+Branding Pessoal e Marketing Pessoal Online,Laura Lima,Presencial,2023-08-10,2024-09-03,,,91.0,1984-05-18
+Data Warehousing e Business Intelligence,Anderson Costa,Semipresencial,2023-09-22,2024-09-09,,,88.0,1976-09-30
+Design de Games e Experiência do Usuário,Nathalia Rodrigues,Online,2023-11-04,2024-09-15,,,,1995-02-11
+Estratégias de Publicidade em Aplicativos Móveis,Lucas Oliveira,Presencial,2023-12-16,2024-09-21,,,71.0,1980-06-22
+Finanças Éticas e Investimentos Sustentáveis,Mariana Souza,Semipresencial,2023-01-28,2024-09-27,2024-09-27,,,1992-10-03
